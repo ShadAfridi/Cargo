@@ -194,7 +194,7 @@ function ifdecline(){
 }
     </script>
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASEvncDVzSDP-to6DndDucKuaqvGFPmF4&libraries=places&callback=getLocation"
+      src="https://maps.googleapis.com/maps/api/js?key=#######&libraries=places&callback=getLocation"
       async
       defer
     ></script>

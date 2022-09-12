@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.752" height="111.991" viewBox="0 0 72.752 111.991">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="71.752" height="110.991" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Medicine" transform="translate(-2542 -874)">
+    <g id="Group_293" data-name="Group 293" transform="translate(2543 875)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="39.862" height="10.372" transform="translate(15.945 16.112)" fill="#9d9bbb"/>
+      <path id="Path_1" data-name="Path 1" d="M312.831,393.1H360.92c6.538,0,11.831,5.669,11.831,12.67v59.167c0,7-5.294,12.67-11.831,12.67H312.831c-6.537,0-11.831-5.669-11.831-12.67V405.772c0-7,5.294-12.67,11.831-12.67Z" transform="translate(-301 -366.618)" fill="tomato"/>
+      <path id="Path_2" data-name="Path 2" d="M308.976,390.1h41.855c3.859,0,6.976,3.8,6.976,8.538,0,4.7-3.117,8.538-6.976,8.538H308.976c-3.827,0-6.976-3.842-6.976-8.538,0-4.738,3.149-8.538,6.976-8.538Z" transform="translate(-294.028 -389.231)" fill="#2f2e41"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(-1 -1)">
+        <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path)">
+          <path id="Path_3" data-name="Path 3" d="M315.529,399.1v18.549M306,408.376h19.058" transform="translate(-261.138 -314.327)" fill="none" stroke="#fff" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

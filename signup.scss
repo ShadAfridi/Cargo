@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+//*Header Style
+
+header {
+  margin: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: lighter;
+
+    a {
+      text-decoration: none;
+      color: #707070;
+    }
+  }
+  h2 {
+    margin-right: 30px;
+    margin-top: 40px;
+    font-weight: bold;
+
+    a {
+      text-decoration: none;
+      color: rgba(245, 31, 44, 0.9);
+    }
+  }
+}
+
+.login-box {
+  display: inline-block;
+  position: absolute;
+  width: 370px;
+  height: 400px;
+  top: 120px;
+  left: 500px;
+  border-radius: 50px;
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(245, 31, 44, 0.9),
+    rgba(220, 64, 15, 0.8)
+  );
+}
+
+.Email {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 160px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: rgba(245, 31, 44, 1);
+  font-weight: 500;
+}
+
+.Email::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+.Email:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.Email:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.Password {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 300px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: rgba(245, 31, 44, 1);
+  font-weight: 500;
+}
+
+.Password:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.Password:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.Password::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+
+.eye {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  width: 30px;
+  top: 317px;
+  left: 795px;
+  cursor: pointer;
+}
+.eye2 {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  width: 30px;
+  top: 387px;
+  left: 795px;
+  cursor: pointer;
+}
+.sign-up {
+  opacity: 1;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 440px;
+  left: 545.7px;
+  width: 280px;
+  height: 50px;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom right, rgba(220, 64, 15, 1), rgba(245, 31, 44, 1));
+  color: white;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding-top: -1cm;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 15px 35px 0 rgba(0, 0, 0, 0.19);
+  outline: none;
+  animation: fade 2.5s;
+  animation-fill-mode: forwards;
+  pointer-events: inherit;
+}
+
+.sign-up:hover {
+  cursor: pointer;
+  color: rgba(245, 31, 44, 1);
+  background: white;
+  font-weight: bold;
+  border: 3px solid rgba(245, 31, 44, 0.9);
+}
+
+.Name {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 230px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: rgba(245, 31, 44, 1);
+  font-weight: 500;
+}
+
+.Name::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+.Name:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.Name:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.conf-Password {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 370px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: rgba(245, 31, 44, 1);
+  font-weight: 500;
+}
+
+.conf-Password:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.conf-Password:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.conf-Password::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}

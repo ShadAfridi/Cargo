@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="217.791" height="95" viewBox="0 0 217.791 95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.652" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dc400f"/>
+      <stop offset="1" stop-color="#f51f2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.883" y2="0.821" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dc400f"/>
+      <stop offset="1" stop-color="#ff2634"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.883" y2="0.821" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.658" y1="0.675" x2="0.293" y2="0.258" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2634"/>
+      <stop offset="1" stop-color="#dc400f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="-0.228" x2="0.5" y2="0.694" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-6" x1="0.087" y1="0.33" x2="1" y2="0.916" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="LOGO_White_Final" transform="translate(-71.209 -273)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="164" height="81" rx="16" transform="translate(125 273)" fill="url(#linear-gradient)"/>
+    <text id="CARGO" transform="translate(207 328)" fill="#fff" font-size="37" font-family="Ebrima-Bold, Ebrima" font-weight="700"><tspan x="-63.811" y="0">CARGO</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M8.789,0H39.552c4.854,0,8.789,3.222,8.789,7.2V29.688c0,3.975-3.935,7.2-8.789,7.2H8.789C3.935,36.886,0,33.663,0,29.688V7.2C0,3.222,3.935,0,8.789,0Z" transform="translate(71.209 317.149)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_4" data-name="Path 4" d="M8.325,0H37.462c4.6,0,8.325,3.007,8.325,6.717V27.709c0,3.71-3.727,6.717-8.325,6.717H8.325C3.727,34.427,0,31.419,0,27.709V6.717C0,3.007,3.727,0,8.325,0Z" transform="translate(72.39 318.445)" fill="url(#linear-gradient-3)"/>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(146 342)" fill="#fff" stroke="#dc400f" stroke-width="1">
+      <ellipse cx="13.5" cy="13" rx="13.5" ry="13" stroke="none"/>
+      <ellipse cx="13.5" cy="13" rx="13" ry="12.5" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(242 341)" fill="#fff" stroke="#dc400f" stroke-width="1">
+      <ellipse cx="13.5" cy="13" rx="13.5" ry="13" stroke="none"/>
+      <ellipse cx="13.5" cy="13" rx="13" ry="12.5" fill="none"/>
+    </g>
+    <g id="Path_2" data-name="Path 2" transform="translate(86 291.206)" fill="#dc400f">
+      <path d="M 32.7859001159668 21.79495620727539 L 0.8923583030700684 21.79495620727539 L 13.92900466918945 0.4999961853027344 L 32.7859001159668 0.4999961853027344 L 32.7859001159668 21.79495620727539 Z" stroke="none"/>
+      <path d="M 14.20915603637695 0.9999961853027344 L 1.784704208374023 21.29495620727539 L 32.28590393066406 21.29495620727539 L 32.28590393066406 0.9999961853027344 L 14.20915603637695 0.9999961853027344 M 13.64884185791016 -3.814697265625e-06 L 33.2859001159668 -3.814697265625e-06 L 33.2859001159668 22.29495620727539 L 3.814697265625e-06 22.29495620727539 L 13.64884185791016 -3.814697265625e-06 Z" stroke="none" fill="#dc400f"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M11.647,0H28.405V19.244H0Z" transform="translate(89 292.724)" fill="#fff"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="6.5" cy="6.5" r="6.5" transform="translate(153 349)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="6.5" cy="6.5" r="6.5" transform="translate(249 348)" fill="url(#linear-gradient-5)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(82 342)" fill="#fff" stroke="#dc400f" stroke-width="1">
+      <ellipse cx="13.5" cy="13" rx="13.5" ry="13" stroke="none"/>
+      <ellipse cx="13.5" cy="13" rx="13" ry="12.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="6.5" cy="6.5" r="6.5" transform="translate(89 349)" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Tree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238.455" height="488.335" viewBox="0 0 238.455 488.335">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3d00" stop-opacity="0.769"/>
+      <stop offset="1" stop-color="#f51f2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f51f2c"/>
+      <stop offset="1" stop-color="#e26d13" stop-opacity="0.871"/>
+    </linearGradient>
+  </defs>
+  <path id="Union_1" data-name="Union 1" d="M125.293,424.339H0l28.072-70.73h-17.8l33.022-83.2H28.2L61.748,185.88H43.887L117.659,0l74.125,185.88H173.108l33.705,84.525H190.592l33.179,83.2H210.25l28.2,70.73Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="69.018" height="73.078" transform="translate(84.513 415.257)" fill="url(#linear-gradient-2)"/>
+</svg>

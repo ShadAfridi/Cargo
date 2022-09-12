@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  margin: 0 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+header h1 {
+  margin-left: 30px;
+  margin-top: 30px;
+  font-weight: lighter;
+}
+
+header h1 a {
+  text-decoration: none;
+  color: #707070;
+}
+
+header h2 {
+  margin-right: 30px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+header h2 a {
+  text-decoration: none;
+  color: rgba(245, 31, 44, 0.9);
+}
+
+.login-box {
+  display: inline-block;
+  position: absolute;
+  width: 370px;
+  height: 300px;
+  top: 120px;
+  left: 500px;
+  border-radius: 50px;
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(245, 31, 44, 0.9)), to(rgba(220, 64, 15, 0.8)));
+  background-image: linear-gradient(to bottom right, rgba(245, 31, 44, 0.9), rgba(220, 64, 15, 0.8));
+}
+
+.User-Id {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 170px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: #f51f2c;
+  font-weight: 500;
+}
+
+.User-Id::-moz-selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+
+.User-Id::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+
+.User-Id:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.User-Id:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.Password {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  border-radius: 30px;
+  padding: 0.2em 1em;
+  top: 250px;
+  left: 526px;
+  border: none;
+  text-align: center;
+  font-size: 1.2em;
+  caret-color: #707070;
+  color: #f51f2c;
+  font-weight: 500;
+}
+
+.Password:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.Password:focus {
+  outline: none;
+  font-weight: 600;
+}
+
+.Password::-moz-selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+
+.Password::selection {
+  color: rgba(245, 31, 44, 0.5);
+  background: rgba(220, 64, 15, 0.4);
+}
+
+.eye {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  width: 30px;
+  top: 267px;
+  left: 795px;
+  cursor: pointer;
+}
+
+.log-in {
+  opacity: 1;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 340px;
+  left: 545.7px;
+  width: 280px;
+  height: 50px;
+  border-radius: 30px;
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#dc400f), to(#f51f2c));
+  background-image: linear-gradient(to bottom right, #dc400f, #f51f2c);
+  color: white;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding-top: -1cm;
+  -webkit-box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 15px 35px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 15px 35px 0 rgba(0, 0, 0, 0.19);
+  outline: none;
+  -webkit-animation: fade 2.5s;
+          animation: fade 2.5s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  pointer-events: inherit;
+}
+
+.log-in:hover {
+  cursor: pointer;
+  color: #f51f2c;
+  background: white;
+  font-weight: bold;
+  border: 3px solid rgba(245, 31, 44, 0.9);
+}
+/*# sourceMappingURL=login_style.css.map */
